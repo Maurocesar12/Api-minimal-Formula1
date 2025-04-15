@@ -9,14 +9,6 @@
 
 <br />
 
-  <!-- Badges -->
-<div align="center">
-  
-  [![TypeScript version][ts-badge]][typescript-5-4]
-  [![Node.js version][nodejs-badge]][nodejs]
-
-</div>
-
 # 🚀 Technologies
 
 This code source was developed with the following items:
